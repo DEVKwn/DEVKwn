@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**DEVKwn/DEVKwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 😎
+Hi, I'm Kawan, I am a dev passionate about technology!
 
-Here are some ideas to get you started:
+This is the space where I spend most of my time where, imagination and creativity become code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
+
+
+
+Languages and Tools:
+
