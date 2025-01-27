@@ -5,6 +5,8 @@ Hi, I'm Kawan, I am a dev passionate about technology!
 This is the space where I spend most of my time where, imagination and creativity become code.
 
 Connect with me:
+<br>
+<br>
 <a href="https://www.instagram.com/kwnsm_/"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
 
